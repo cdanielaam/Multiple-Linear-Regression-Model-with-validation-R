@@ -25,6 +25,9 @@ The steps and procedures used in code are documented and described bellow:
     3) Including only female participants;
     
 #6: Multiple Linear Regression models built and tested using antropometric parameters with model summary, coefficient intervals for all variables and tested 
-for residuals (tested for both samples, derivation and validadtion). The model with the lower residuals was choosen;
+for residuals (tested for both samples, derivation and validadtion). The model that incldes all variables was chosen. Model was chosen even if variables were 
+significant to increase model accuracy;
 
-#7: 
+#7: Model was tested using Bland-ALtaman graph and statistics, and compared to GLI2012 predictive equations using mean differences;
+
+#8: Correlations coefficients and scaterplots between ARIA predicted equations and measured values, and GLI2012 predictive equations and measured values.
